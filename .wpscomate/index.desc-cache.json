@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "generatedAt": "2026-06-11T12:06:07.103Z",
+  "items": {
+    "cityscholar": {
+      "description": "城市学者核心包",
+      "fingerprint": "dir:aa82e27ab302",
+      "source": "ai",
+      "confidence": 0.5,
+      "updatedAt": "2026-06-11T11:33:36.916Z"
+    },
+    "outputs": {
+      "description": "输出结果存储目录",
+      "fingerprint": "dir:2eb9300950ed",
+      "source": "ai",
+      "confidence": 0.5,
+      "updatedAt": "2026-06-11T11:33:36.917Z"
+    },
+    "papers": {
+      "description": "论文资料存储目录",
+      "fingerprint": "dir:5c4f347f171c",
+      "source": "ai",
+      "confidence": 0.5,
+      "updatedAt": "2026-06-11T11:33:36.919Z"
+    },
+    "storage": {
+      "description": "数据持久化存储目录",
+      "fingerprint": "dir:7cbbde7539be",
+      "source": "ai",
+      "confidence": 0.5,
+      "updatedAt": "2026-06-11T11:33:36.920Z"
+    },
+    "cityscholar\\agent.py": {
+      "description": "定义AI代理的核心逻辑",
+      "fingerprint": "file:35080:1781178403746",
+      "source": "ai",
+      "confidence": 0.5,
+      "updatedAt": "2026-06-11T11:52:01.580Z"
+    },
+    "cityscholar\\config.py": {
+      "description": "项目配置管理",
+      "fingerprint": "file:2890:1781177157007",
+      "source": "ai",
+      "confidence": 0.5,
+      "updatedAt": "2026-06-11T11:33:36.920Z"
+    },
+    "cityscholar\\graph_rag.py": {
+      "description": "图增强检索生成",
+      "fingerprint": "file:6573:1779973644083",
+      "source": "ai",
+      "confidence": 0.5,
+      "updatedAt": "2026-06-11T11:33:36.920Z"
+    },
+    "cityscholar\\indexer.py": {
+      "description": "数据索引构建",
+      "fingerprint": "file:12554:1779974328010",
+      "source": "ai",
+      "confidence": 0.5,
+      "updatedAt": "2026-06-11T11:33:36.920Z"
+    },
+    "cityscholar\\llm.py": {
+      "description": "封装大型语言模型功能",
+      "fingerprint": "file:15794:1781177903941",
+      "source": "ai",
+      "confidence": 0.5,
+      "updatedAt": "2026-06-11T11:41:27.001Z"
+    },
+    "cityscholar\\mcp_protocol.py": {
+      "description": "实现多智能体通信协议",
+      "fingerprint": "file:11064:1781179182381",
+      "source": "ai",
+      "confidence": 0.5,
+      "updatedAt": "2026-06-11T12:06:07.102Z"
+    },
+    "cityscholar\\memory.py": {
+      "description": "内存状态管理",
+      "fingerprint": "file:2106:1779974391559",
+      "source": "ai",
+      "confidence": 0.5,
+      "updatedAt": "2026-06-11T11:33:36.920Z"
+    },
+    "cityscholar\\models.py": {
+      "description": "数据模型定义",
+      "fingerprint": "file:1529:1781177165287",
+      "source": "ai",
+      "confidence": 0.5,
+      "updatedAt": "2026-06-11T11:33:36.920Z"
+    },
+    "cityscholar\\multiagent.py": {
+      "description": "管理多智能体交互",
+      "fingerprint": "file:11974:1781179139387",
+      "source": "ai",
+      "confidence": 0.5,
+      "updatedAt": "2026-06-11T12:06:07.103Z"
+    },
+    "cityscholar\\multimodal.py": {
+      "description": "处理多模态数据输入",
+      "fingerprint": "file:11105:1781179096837",
+      "source": "ai",
+      "confidence": 0.5,
+      "updatedAt": "2026-06-11T12:06:07.103Z"
+    },
+    "cityscholar\\retrieval.py": {
+      "description": "实现信息检索功能",
+      "fingerprint": "file:19866:1781178394103",
+      "source": "ai",
+      "confidence": 0.5,
+      "updatedAt": "2026-06-11T11:52:01.580Z"
+    },
+    "cityscholar\\safety.py": {
+      "description": "确保系统安全性",
+      "fingerprint": "file:12165:1781179233031",
+      "source": "ai",
+      "confidence": 0.5,
+      "updatedAt": "2026-06-11T12:06:07.103Z"
+    },
+    "cityscholar\\tree_search.py": {
+      "description": "实现树搜索算法",
+      "fingerprint": "file:10066:1781179271307",
+      "source": "ai",
+      "confidence": 0.5,
+      "updatedAt": "2026-06-11T12:06:07.103Z"
+    },
+    "cityscholar\\utils.py": {
+      "description": "通用工具函数集合",
+      "fingerprint": "file:606:1779191134613",
+      "source": "ai",
+      "confidence": 0.5,
+      "updatedAt": "2026-06-11T11:33:36.920Z"
+    },
+    "main.py": {
+      "description": "应用程序主入口",
+      "fingerprint": "file:9430:1781179327633",
+      "source": "ai",
+      "confidence": 0.5,
+      "updatedAt": "2026-06-11T12:06:07.103Z"
+    },
+    "multiagent_demo.py": {
+      "description": "多智能体演示脚本",
+      "fingerprint": "file:2622:1779974537263",
+      "source": "ai",
+      "confidence": 0.5,
+      "updatedAt": "2026-06-11T11:33:36.920Z"
+    }
+  }
+}

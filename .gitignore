@@ -1,0 +1,15 @@
+.env
+.env.local
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 索引文件（可从 papers/ 重新生成）
+storage/chunks.pkl
+storage/embeddings.npy
+storage/tfidf_matrix.pkl
+storage/vectorizer.pkl
+storage/memory.jsonl
